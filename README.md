@@ -33,7 +33,7 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhineshkumarG&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1CC7C1&text_color=C9D1D9&langs_count=8" />
 
-## 🧠 whoami
+## 🧠 Who am i
 
 ```yaml
 ╔══════════════════════════════════════════╗
