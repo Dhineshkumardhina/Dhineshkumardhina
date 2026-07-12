@@ -1,3 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Dhineshkumar G — Dark Theme Preview</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #05070d;
+    font-family: -apple-system, Segoe UI, sans-serif;
+  }
+  .wrap {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  .banner {
+    max-width: 1180px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  .caption {
+    margin-top: 16px;
+    color: #64748b;
+    font-size: 13px;
+    font-family: SFMono-Regular, Consolas, monospace;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="banner">
 <svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
   <!-- ============ GRADIENTS ============ -->
@@ -216,7 +254,7 @@
         &gt;
       </text>
       <g font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#F8FAFC">
-        <text x="508" y="172" opacity="0">Founder &amp; CEO, Xerova
+        <text x="508" y="172" opacity="0">Founder &amp; CEO, Xerova Digital
           <animate attributeName="opacity" begin="1.2s" dur="8s" values="0;1;1;0;0" keyTimes="0;0.02;0.23;0.25;1" repeatCount="indefinite"/></text>
         <text x="508" y="172" opacity="0">CSBS Engineering Student
           <animate attributeName="opacity" begin="1.2s" dur="8s" values="0;0;1;1;0;0" keyTimes="0;0.25;0.27;0.48;0.5;1" repeatCount="indefinite"/></text>
@@ -239,7 +277,7 @@
 
         <g opacity="0"><animate attributeName="opacity" to="1" begin="1.9s" dur="0.01s" fill="freeze"/>
           <text x="490" y="256" fill="#94A3B8">🎓 Education</text>
-          <text x="650" y="256" fill="#F8FAFC">SMVEC · CSEBS · Batch 2025-2029</text></g>
+          <text x="650" y="256" fill="#F8FAFC">SMVEC · CSBS · Batch 2027</text></g>
 
         <g opacity="0"><animate attributeName="opacity" to="1" begin="2.2s" dur="0.01s" fill="freeze"/>
           <text x="490" y="284" fill="#94A3B8">⚡ Focus</text>
@@ -353,3 +391,9 @@
   </g>
 </g>
 </svg>
+
+  </div>
+  <div class="caption">dark.svg — GitHub profile README preview</div>
+</div>
+</body>
+</html>
