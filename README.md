@@ -11,7 +11,7 @@ Creating innovative solutions by combining **Artificial Intelligence, Software D
 ---
 
 ## 🧑‍💻 About Me
-
+ 
 * 💻 Passionate about building scalable and intelligent software solutions
 * 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
 * 🌐 Full-Stack Developer focused on modern web technologies
