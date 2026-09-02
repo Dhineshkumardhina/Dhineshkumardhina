@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🚀 AI Developer | Ai Mern Full-Stack Developer | Technology Enthusiast
+## 🚀 AI Developer | AI Full-Stack Developer | Technology Enthusiast
 
 Creating innovative solutions by combining **Artificial Intelligence, Software Development, and Modern Technologies**.
 
