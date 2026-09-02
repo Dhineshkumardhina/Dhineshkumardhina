@@ -78,8 +78,6 @@ Creating innovative solutions by combining **Artificial Intelligence, Software D
 
 ---
 
-
-
 ---
 
 # 🤝 Let's Connect
