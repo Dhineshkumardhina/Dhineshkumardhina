@@ -9,7 +9,7 @@ Creating innovative solutions by combining **Artificial Intelligence, Software D
 </div>
 
 ---
- 
+  
 ## 🧑‍💻 About Me
  
 * 💻 Passionate about building scalable and intelligent software solutions
