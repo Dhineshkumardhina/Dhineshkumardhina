@@ -8,7 +8,7 @@ Creating innovative solutions by combining **Artificial Intelligence, Software D
 
 </div>
  
----  
+---     
       
 ## 🧑‍💻 About Me
  
