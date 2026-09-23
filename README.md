@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🚀 AI Developer | AI Full-Stack Developer | Technology Enthusiast
+## 🚀 AI Developer and Founder | AI Full-Stack Developer | Cybersecurity Enthusiast
 
 Creating innovative solutions by combining **Artificial Intelligence, Software Development, and Modern Technologies**.
 
