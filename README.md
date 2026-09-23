@@ -98,6 +98,6 @@ Creating innovative solutions by combining **Artificial Intelligence, Software D
 
 <div align="center">
 
-### ⚡ Building. Learning. Innovating.
+### ⚡ Building. Learning. Innovating!
 
 </div>
