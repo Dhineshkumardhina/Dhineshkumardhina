@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhineshkumar(Dhina) G
+# 👋 Hi, I'm Dhineshkumar (Dhina) G
 
 <div align="center">
 
